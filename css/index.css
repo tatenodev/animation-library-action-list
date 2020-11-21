@@ -1,0 +1,15 @@
+.content-title {
+    text-align: center;
+}
+.content-table {
+    margin: 0 auto;
+    text-align: left;
+    border-collapse: collapse;
+    color: #333333;
+}
+.content-table th,
+.content-table td {
+    border-collapse: collapse;
+    border: 2px solid sandybrown;
+    padding: 0 10px;
+}
