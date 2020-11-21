@@ -2,6 +2,9 @@ body {
     background: beige;
   }
   
+  h1 {
+    cursor: pointer;
+  }
   .container {
     width: fit-content;
     margin: 0 auto;
