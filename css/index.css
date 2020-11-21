@@ -1,5 +1,6 @@
 .content-title {
     text-align: center;
+    cursor: pointer;
 }
 .content-table {
     margin: 0 auto;
